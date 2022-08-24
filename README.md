@@ -2,7 +2,7 @@
 
 ## Desafio Técnico | Front-end - Módulo 1
 
-:pencil2: Projeto (originalmente desenvolvido em 05 de Abril de 2022)
+:pencil2: Projeto (originalmente desenvolvido em 05 de Abril de 2022) <br>
 Desafio proposto pela [Cubos Academy](https://cubos.academy/sucesso), tem como objetivo replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
 
 :desktop_computer: Tecnologias usadas
@@ -12,7 +12,7 @@ Desafio proposto pela [Cubos Academy](https://cubos.academy/sucesso), tem como o
 
 ## Páginas obrigatórias
 
-- [Home](#Home)
+- [Home](#home)
 
 ## Páginas opcionais
 
@@ -26,8 +26,6 @@ Desafio proposto pela [Cubos Academy](https://cubos.academy/sucesso), tem como o
   - [Portfolio - 03 - Insure](#portfolio---03---insure)
   - [Portfolio - 04 - Fylo](#portfolio---04---fylo)
   - [Contato](#contato)
-- [Aulas úteis:](#aulas-úteis)
-        - [tags: `front-end` `módulo 1` `HTML` `CSS` `desafio`](#tags-front-end-módulo-1-html-css-desafio)
 
 ### Home
 
