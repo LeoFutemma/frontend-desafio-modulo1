@@ -1,0 +1,174 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.ciano {
+  color: #5FB4A2;
+}
+
+.azulescuro {
+  color: #203A4C;
+}
+
+.preto {
+  color: #33323D;
+}
+
+.branco {
+  color: #FFFFFF;
+}
+
+.textos1 {
+  font-family: 'Public Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+}
+
+.textos2 {
+  font-family: 'Public Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.textos3 {
+  font-family: 'Public Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+.h1 {
+  font-family: 'Ibarra Real Nova';
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 50px;
+  letter-spacing: -0.446429px;
+}
+
+.h2 {
+  font-family: 'Ibarra Real Nova';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  letter-spacing: -0.357143px;
+}
+
+.h3 {
+  font-family: 'Ibarra Real Nova';
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: -0.285714px;
+}
+
+.h3-36px {
+  line-height: 36px;
+}
+
+.h3-42px {
+  line-height: 42px;
+}
+
+.subtitulo {
+  font-family: 'Public Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  color: #5FB4A2;
+}
+
+.container {
+  background: #FAFAFA;
+  max-width: 1440px;
+  padding: 64px 165px 0 165px;
+}
+
+.header {
+  display: inline-flex;
+  align-items: center;
+}
+
+.header__nav {
+  padding-left: 766px;
+}
+
+.header__menu {
+  display: flex;
+  justify-content: end;
+  list-style: none;
+}
+
+.menu__link1,
+.menu__link2 {
+  padding-right: 42px;
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  background: #33323D;
+  opacity: 0.15;
+}
+
+.contato-section {
+  padding: 150px 47px;
+  max-width: 1110px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.contato-section__titulo {
+  padding-right: 491px;
+}
+
+.contato-section__btn {
+  padding: 17px 50px;
+  background: none;
+  border: 1px solid #33323D;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.contato-section__btn:hover {
+  background: #33323D;
+  color: #FAFAFA;
+}
+
+.footer {
+  background: #33323D;
+  padding: 24px 165px;
+  max-width: 1440px;
+  align-items: center;
+  display: inline-flex;
+}
+
+.footer__logo {
+  padding-right: 48px;
+}
+
+.footer__menu {
+  display: inline-flex;
+  list-style: none;
+}
+
+.menu__link3,
+.menu__link4 {
+  padding-right: 42px;
+}
+
+.menu__link5 {
+  padding-right: 603px;
+}
+
+.footer_nav__github,
+.footer_nav__twitter {
+  padding-right: 15px;
+}

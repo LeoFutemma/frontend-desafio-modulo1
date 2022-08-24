@@ -1,0 +1,63 @@
+.manage-section,
+.bookmark-section,
+.insure-section,
+.fylo-section {
+  display: inline-flex;
+}
+
+.manage-section {
+  padding: 94px 47px 0 47px;
+}
+
+.manage-section__foto,
+.insure-section__foto {
+  height: 500px;
+  padding-right: 125px;
+}
+
+.manage-texto,
+.bookmark-texto,
+.insure-texto,
+.fylo-texto {
+  flex-direction: column;
+  max-width: 350px;
+}
+
+.manage-texto__titulo,
+.bookmark-texto__titulo,
+.insure-texto__titulo,
+.fylo-texto__titulo {
+  padding: 103px 0 28px 0;
+}
+
+.manage-texto__paragrafo,
+.bookmark-texto__paragrafo {
+  padding-bottom: 54px;
+}
+
+.manage-section__btn,
+.bookmark-section__btn,
+.insure-section__btn,
+.fylo-section__btn {
+  padding: 17px 38px;
+  background: none;
+  border: 1px solid #33323D;
+  margin-bottom: 103px;
+}
+
+.bookmark-section,
+.insure-section,
+.fylo-section {
+  padding: 80px 47px 0 47px;
+}
+
+.bookmark-section__foto,
+.fylo-section__foto {
+  height: 500px;
+  padding-left: 125px;
+}
+
+.insure-texto__paragrafo,
+.fylo-texto__paragrafo {
+  padding-bottom: 24px;
+}

@@ -1,0 +1,91 @@
+.bookmark-hero {
+  padding: 94px 0 115px 0;
+}
+
+.bookmark-hero__img {
+  max-width: 1110px;
+}
+
+.bookmark-main {
+  display: flex;
+}
+
+.bookmark-main__resumo {
+  margin-right: 125px;
+}
+
+.bookmark-resumo__titulo {
+  padding: 48px 0 29px 0;
+}
+
+.bookmark-resumo__paragrafo {
+  padding-bottom: 53px;
+}
+
+.linguagem {
+  padding: 16px 0 32px 0;
+}
+
+.bookmark-section__btn {
+  display: block;
+  padding: 17px 60px;
+  background: none;
+  border: 1px solid #33323D;
+  margin-bottom: 48px;
+}
+
+.bookmark-main__projeto {
+  max-width: 635px;
+}
+
+.bookmark-projeto__titulo,
+.bookmark-projeto__preview {
+  padding-bottom: 28px;
+}
+
+.bookmark-projeto__paragrafo {
+  padding-bottom: 40px;
+}
+
+.bookmark-projeto__foto1,
+.bookmark-projeto__foto2 {
+  width: 635px;
+}
+
+.bookmark-projeto__foto1 {
+  padding-bottom: 32px;
+}
+
+.bookmark-projeto__foto2 {
+  padding-bottom: 64px;
+}
+
+.contato-section {
+  padding-top: 115px;
+}
+
+.avanca-volta {
+  display: inline-flex;
+  align-items: center;
+}
+
+.avanca-volta__btn {
+  background: none;
+  border: none;
+  margin: 32px 0 32px 0;
+}
+
+.volta-btn {
+  text-align: left;
+  margin-left: 32px;
+  padding-right: 770px;
+}
+
+.avanca-btn {
+  text-align: right;
+  margin-right: 32px;
+}
+
+.opacidade {
+  opacity: 0.5;
+}

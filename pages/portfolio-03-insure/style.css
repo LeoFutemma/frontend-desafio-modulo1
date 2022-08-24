@@ -1,0 +1,91 @@
+.insure-hero {
+  padding: 94px 0 115px 0;
+}
+
+.insure-hero__img {
+  max-width: 1110px;
+}
+
+.insure-main {
+  display: flex;
+}
+
+.insure-main__resumo {
+  margin-right: 125px;
+}
+
+.insure-resumo__titulo {
+  padding: 48px 0 29px 0;
+}
+
+.insure-resumo__paragrafo {
+  padding-bottom: 53px;
+}
+
+.linguagem {
+  padding: 16px 0 32px 0;
+}
+
+.insure-section__btn {
+  display: block;
+  padding: 17px 60px;
+  background: none;
+  border: 1px solid #33323D;
+  margin-bottom: 48px;
+}
+
+.insure-main__projeto {
+  max-width: 635px;
+}
+
+.insure-projeto__titulo,
+.insure-projeto__preview {
+  padding-bottom: 28px;
+}
+
+.insure-projeto__paragrafo {
+  padding-bottom: 40px;
+}
+
+.insure-projeto__foto1,
+.insure-projeto__foto2 {
+  width: 635px;
+}
+
+.insure-projeto__foto1 {
+  padding-bottom: 32px;
+}
+
+.insure-projeto__foto2 {
+  padding-bottom: 64px;
+}
+
+.contato-section {
+  padding-top: 115px;
+}
+
+.avanca-volta {
+  display: inline-flex;
+  align-items: center;
+}
+
+.avanca-volta__btn {
+  background: none;
+  border: none;
+  margin: 32px 0 32px 0;
+}
+
+.volta-btn {
+  text-align: left;
+  margin-left: 32px;
+  padding-right: 770px;
+}
+
+.avanca-btn {
+  text-align: right;
+  margin-right: 32px;
+}
+
+.opacidade {
+  opacity: 0.5;
+}

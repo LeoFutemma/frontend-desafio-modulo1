@@ -1,0 +1,69 @@
+.hero-section {
+  display: flex;
+  height: 600px;
+  margin-top: 54px;
+  background: url(../../assets/home/image-homepage-hero.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  align-items: flex-end;
+}
+
+.hero-section__info {
+  background: #FAFAFA;
+  width: 445px;
+  height: 357px;
+}
+
+.hero-section__texto {
+  padding: 56px 28px 53px 27px;
+}
+
+.hero-section__seta {
+  height: 48px;
+  width: 48px;
+}
+
+.hero-section__btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px;
+  padding-right: 33.04px;
+  border: none;
+  background-image: url(../../assets/icons/button-aboutme-dark.svg);
+}
+
+.hero-section__btn:hover {
+  background-image: url(../../assets/icons/button-aboutme.svg);
+}
+
+.sobre-section {
+  display: inline-flex;
+  padding-top: 149px;
+}
+
+.sobre-section__foto {
+  height: 600px;
+  padding-right: 140px;
+}
+
+.sobre-texto {
+  flex-direction: column;
+  max-width: 430px;
+}
+
+.sobre-texto__titulo {
+  padding: 51px 0 28px 0;
+}
+
+.sobre-texto__paragrafo {
+  padding-bottom: 24px;
+}
+
+.sobre-section__btn {
+  padding: 17px 28px;
+  background: none;
+  border: 1px solid #33323D;
+  margin-bottom: 46px;
+  margin-left: 111px;
+}
